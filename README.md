@@ -18,4 +18,17 @@ A **RAG** model as my college project in Tools in DataScience project .
 ![Rag model work flow](Advanced-RAG.png)
 
 
+#### DATA SCRAPPING : 
+- For Discourse Post data :
+    - I have used discourse public apis for extracting json formated post data from our discourse portal.
+    Example API - 
+        > https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34.json
+
+- For Course content data : 
+    - I cloned `Markdown` files of ours professor's public [github repo on Tools in Data Science portal](https://github.com/sanand0/tools-in-data-science-public).
+    Example Clone - 
+        ```cmd
+        git clone https://github.com/sanand0/tools-in-data-science-public
+        ```
+ 
 
