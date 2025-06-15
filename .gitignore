@@ -1,0 +1,7 @@
+# Ignore SQLite and database files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-wal
+*.sqlite-shm
