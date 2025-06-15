@@ -31,4 +31,15 @@ A **RAG** model as my college project in Tools in DataScience project .
         git clone https://github.com/sanand0/tools-in-data-science-public
         ```
  
+#### IMPORTANT INSTRUCTION :
+- For posts data scrapping run python code in sequence to get the final `.json` file of posts data for embedding and storing.
+    ```
+    extract_all_topics_to_files.py --> assemble_all_topic.py --> assemble_all_topic_from_jan_april.py --> extract_all_posts.py --> get_image_description.py
+
+    ```
+- For course data to get final `.json` file do this.
+    ```
+    clone public github repo on Tools in Data Science portal --> run extract_course_data.py
+
+- Change `ENVIRONMENT_VARIABLE` according to you.
 
