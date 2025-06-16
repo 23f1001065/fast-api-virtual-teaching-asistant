@@ -41,5 +41,5 @@ A **RAG** model as my college project in Tools in DataScience project .
     ```
     clone public github repo on Tools in Data Science portal --> run extract_course_data.py
 
-- Change `ENVIRONMENT_VARIABLE` according to you.
+- Change value of `ENVIRONMENT_VARIABLE` example are in `.env.example` file 
 
