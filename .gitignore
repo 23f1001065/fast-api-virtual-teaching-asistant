@@ -5,3 +5,5 @@
 *.db-journal
 *.sqlite-wal
 *.sqlite-shm
+.env
+.env.*
